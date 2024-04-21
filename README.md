@@ -12,14 +12,14 @@
 2. Create a project
 3. Open IAM & ADMIN from Navigation
 4. Go to Service Accounts
-5. Create Sevice Account 
-    a. Give Permissions/ Set user Role atleast as Editor
-    b. Generate A Key in JSON
-    c. Save that JSON as credentials.json
-6. Goto API & SERVICES 
-    a. Search for Google Sheets API
-    b. Enable Service
-    c. Create OAUTH2.0 account from Credentials Section
+5. Create Sevice Account <br>
+    a. Give Permissions/ Set user Role atleast as Editor<br>
+    b. Generate A Key in JSON<br>
+    c. Save that JSON as credentials.json<br>
+6. Goto API & SERVICES <br>
+    a. Search for Google Sheets API<br>
+    b. Enable Service<br>
+    c. Create OAUTH2.0 account from Credentials Section<br>
 7. Create A Google Sheet note down **SHEET_ID**
 
 ## ❄ Installation
